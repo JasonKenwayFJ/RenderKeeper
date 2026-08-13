@@ -9,6 +9,7 @@ from PIL import Image
 URLS = [
     "https://apicoffeemain.onrender.com/articles/getArticles",
     "https://gravleapi.onrender.com/categories/get_all_categories",
+    "https://gravle.onrender.com"
 ]
 
 INTERVAL = 10 * 60
